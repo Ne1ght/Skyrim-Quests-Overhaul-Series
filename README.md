@@ -1,5 +1,5 @@
 # Skyrim-Quests-Overhaul-Series
-For now this a drump for the story board for each quest, later when i got the hang of the creation kit and the coding langues i will work on the scripts to expand the quests. // For now a placeholder and inactive.
+For now thisisa drump for the story board for each quest, later when i got the hang of the creation kit and the coding langues i will work on the scripts to expand the quests. // For now a placeholder and inactive.
 
 There are various requierments such as being a thane and more but that will be done in depth later on, first i need to actually learn the engine.
 
