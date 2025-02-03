@@ -1,52 +1,61 @@
 Skyrim Main Quest Overhaul
 
 Expanding the Role of the Dragon Cult
-This overhaul brings greater focus to the Dragon Cult and its involvement with Alduin’s return. The Dragon Priests awaken as Alduin returns, leading to increased draugr activity and direct attacks on settlements, fulfilling Hadvar’s childhood nightmare (possibly a vision of the future) that he told the dragonborn about after helgen.
-Hadvar and Ralof will become more involved with the Dragonborn, each representing their respective factions' interest in the rising dragon threat. Tullius and Ulfric take notice of the increasing draugr attacks and send them to investigate, leading to their involvement in key events. Because they are sort of left unused and only used for the civilwar though they are the first ones to aid the dragonborn so they should have more screentime and more depth of character.
+This overhaul brings greater focus to the Dragon Cult and its involvement with Alduin’s return. 
+The Dragon Priests awaken as Alduin returns, leading to increased draugr activity and direct attacks on settlements, fulfilling Hadvar’s childhood nightmare (possibly a vision of the future) that he told the dragonborn about after helgen(I think this is a neet foreshadowing).
+Hadvar and Ralof will become more involved with the Dragonborn, each representing their respective faction and give the dragonborn some more interaction with them and there goals.
+Tullius and Ulfric take notice of the increasing draugr attacks plus the incident in helgen where alduin showed up and send them to investigate, leading to their involvement by setting up posts around the dungeons where the dragon prists are.
+Ulfric being nord himself imideiatly knew that it was alduin while generall ricke(i believe was it?) tells generall tulius about it which makes both of them send out small groups of soldiers that try to keep the draugr at bay while also not letting civilians close to it.  
+Because they are sort of left unused and only used for the civil war though they are the first ones to aid the dragonborn so they should have more screentime and more depth of character.
+So Ralof and Hadvar first become invlovet during the first change of the mod and after that explore the dungeons/dragonpreists resting place with the dragonborn while also giving them the ability to bypass the checkpoints mentiont above.
 Quest Progression Changes & Additions
 
 1. From Helgen to the Dragonstone (Mostly unchanged)
 
 The game progresses normally until the Dragonborn delivers the Dragonstone to Farengar in Dragonsreach.
 Instead of immediately triggering the first dragon attack, 
-Farengar examines the Dragonstone and finds that it marks dragon burial grounds and contains a note referencing the remnants of the Dragon Cult, 
-who seek to aid Alduin.
+Farengar with delphines help examines the Dragonstone and finds that it marks dragon burial grounds just like in vanilla but also the resting places of the dragonpriests.
+That makes her want to examien two places in paticular, that being labirintion as it was the capitel of the dragon cult and that dungeons in south-east riften with that thalmor guy as it was the last remians of the dragoncult.
+Delphine ask the not yet dragonborn if she can hire them to check thes places out.
 
 2. Investigating the Dragon Cult
 
-At this stage, the quest expands to include two new locations for investigation(Though A is the first one as the wodden mask will or is planned to be used to view the past without an elder scroll):
+At this stage, the quest expands to include two new locations for investigation(Though A is the first one as the wodden mask will while B is riften, the placer can chose where to go to first and that can give new dialoge for the other.):
 
 A. Labyrinthian (Dragonborn & Hadvar)
-Farengar sends the Dragonborn to Labyrinthian to uncover more about the Dragon Cult.
-Hadvar is sent by the Imperials to assist, as the Empire is now monitoring dragon activity.
-Inside, the Dragonborn discovers the Wooden Mask and experiences a flashback vision, similar to using an Elder Scroll at the Time-Wound, revealing the Dragon Cult’s past plans and their connection to Alduin.
-Returning to Farengar and Delphine, ~~the Dragonborn is now properly introduced to the Blades’ mission~~ (Breaks the first meeting so maybe not yet) and their concerns about the Thalmor. 
-Delphine having heard that thalmor activiaty has increased in the rift and there being another importend connection to the acient dragon cult.
+Delphine sends the Dragonborn to Labyrinthian to uncover more about the Dragon Cult.
+Hadvar is sent by the Imperials to assist, as the Empire is now monitoring dragon activity and Hadvar being one of the men that survived helgen makes him th best candidart for it as he is also used for the preperation missions during the civil war(Leading me to the conclusion that he is an skilled or importend assat for tulius).
+Inside, the Dragonborn discovers the Wooden Mask and experiences a flashback vision, similar to using an Elder Scroll at the Time-Wound, revealing the portions Dragon Cult’s past, what it shows is yet unclear.
 
 B. Riften (Dragonborn & Ralof)
 
-The Dragonborn is sent to Riften to track down a Thalmor spy, who is disguised as a Stormcloak or Imperial officer.
-Ralof, sent by the Stormcloaks, assists in uncovering the Thalmor’s secret mission as reports of missing soldiers in the rift have been found, and increasing dragaur acitivte, ralof being at helgen makes ulfric send him.
-This leads to new clues about the Dragon Cult’s resurgence and a Thalmor connection to the dragons’ return or more so delphins supicons though the Thalmor are not rresponsible for it but they have another agander(Great war 2 mod?).
+The Dragonborn is sent to Riften to check out th last stand of the dragon cult where we meet Ralof who is curently being told by the thalmor that acts as an higher ranked stormcloak(High elf posing as an stormcloak dosnt make sense but hey it was bethesdas idea not mine.) .
+Ralof, is send by the same reasons as Hadvar, He shows doubt why an altmer is in the stormcloaks but ignores it for now and the dragonborn arrives during he middle of there conversation which triggers the vanilla quest to explore the dungone
+This only changes Ralof being there and some more dialoge, after getting the dragon priest mask the wodden mask(Cant be removed from the inventory but also gets and weight value of 0 to balnce that out) glows which is told with an textbox.
+That should hint to the player to return to labirithon and test the new mask out which gives a new flash back(Maybe use the system like with vamiras daedric quest where the dragonborn views the past through the masks owner/owners, if there where more than one using that mask?)
 
 3. The First Dragon Attack & Whiterun's Role
 
-After returning from Riften, Delphine receives news of a dragon sighting over Riverwood flying towards whiterun.
-She and the Dragonborn pursue it, but arrive too late—the watchtower near Whiterun is already destroyed, with only one survivor left. Here the vanilla quest is used again/Return to dragonsreach and back down to fight the dragon with delphine going back to riverwood to look at the clues from the 3 previous dungeons.
-This leads to the first dragon fight, where the Dragonborn absorbs a soul, triggering the Greybeards’ call. This leads to the vanilla quest again with the horn of jurgen windofer still being there but after that quest delphine conracts the dragonborn again through the corier.
+After that the dragonborn parts ways with ralof and returns to delphine, she pays the dragonborn and starts to plan and examien the information the dragonborn has found. 
+As the dragonborn leaves the sleeping giant a dragon can be heard and seen flying towards whiterun, npcs also start talking about that.
+(Based on who the player has chosen to follow during helgen  or help with alternative startmod, makes either Avor or of ralofs sister speak to the player)
+which leads to the player going after the dragon only to find the watchtower destroyed and that one surving whiterun guard. Ones they retuned to dragonreach the vanilla fight against the first dragon continues normally.
+After the dragon fight, the Greybeards summon the Dragonborn, marking the next phase of the story and providing players more time not being te dragonbon which is 1 pourpus of this mod.
 
 4. The Greybeards & Expanding the Dragonborn's Power
 
-After the dragon fight, the Greybeards summon the Dragonborn, marking the next phase of the story.
-Delphine tries to prevent the Dragonborn from going, warning them not to blindly trust the Greybeards.
-The Greybeards should unlock skill points or abilities for a Dragonborn Skill Tree during meditation (this can integrate existing skill mods).Paarthunax will them become the master rank teacher allowing the dragonborn to learn master level shouts like with the master ranked magic quests and teachers.
+This leads to the vanilla quest again with the horn of jurgen windofer still being stolen by delphine or when using the "own your own pace" mod to idk what it did but simply let it overwrite the vanilla quest as usual.
+The Greybeards should unlock skill points or abilities for a Dragonborn Skill Tree during meditation (Using that one mod that alredy does this so compability to it/requierment).
+This gives more pourpus to the greybeards and also some needed depth for the shout system by giving some extra stuff to them. As i belive the dragonborn dlc had some added effects through 1 dark books quest.
+Paarthunax will them become the master rank teacher allowing the dragonborn to learn master level shouts like with the master ranked magic quests and teachers.
 
 5. Kynesgrove Battle & Expanding the War Against the Dragons
 
 The Kynesgrove dragon battle is expanded into a larger battle where NPCs die, making it a more impactful event. (To avoid quest breaking the named ones will survie but unnamed npcs and guards will be killed.)
 Alduin not only revives Sahloknir but also raises draugr from the ground, forcing the player, Delphine, and others to fight both a dragon and an undead horde.
-Ralof arrives to assist and permanently joins the Dragonborn’s journey from here. As Windhelm is right next to Kynesgrove. The player and ralof convince ulfric to let Ralof as Ulfric compairs it to the empire of old and there blades aiding someone with dragonsblood/ in this case soul.
-After this event, dragons and draugr begin attacking towns and cities, marking the beginning of Skyrim’s open war against Alduin’s forces. (Named npcs cant be killed by inroducing a script that gives these atteking forces a keyword for not killing skyrim.esp and so ones npcs and only being allowed to kill ones from this mods esp file/or just killable npc keyword for SMQQ.esp npcs.)
+Ralof arrives to assist and permanently joins the Dragonborn’s journey from here. As Windhelm is right next to Kynesgrove. 
+After this event, dragons and draugr begin attacking towns and cities, and dragonprists dungeons are being more heavilily .
+(Named npcs cant be killed by inroducing a script that gives these atteking forces a keyword for not killing skyrim.esp and so ones npcs and only being allowed to kill ones from this mods esp file/or just killable npc keyword for SMQQ.esp npcs.)
 
 6. The Blade's Growing Forces
 
@@ -65,6 +74,6 @@ If there can be randomly chosen/from a specific pool or hard codded needs to be 
 
 8. Next Phase: Alduin’s Wall
 
-Idk maybe new animations or ai for dragon battles or alduin.
+Idk maybe new animations or ai for dragon battles or alduin. there is really nothing i can think of for now.
 
 
